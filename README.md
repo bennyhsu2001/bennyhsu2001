@@ -6,6 +6,3 @@
 -  I’m currently learning Python and then I have the knowledge and skills not only to develop business insights 
    but also work across functional teams and define key operational metrics and dashboards to increase operational efficiency.
 
-bennyhsu2001/bennyhsu2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
